@@ -1,0 +1,19 @@
+{
+  "name": "pbbstore/init-composer",
+  "description": "",
+  "type": "project",
+  "license": "MIT",
+  "homepage": "https://github.com/pbbstore",
+  "keywords": ["pbbstore", "init-composer"],
+  "support": {
+    "source": "https://github.com/pbbstore/init-composer",
+    "issues": "https://github.com/pbbstore/init-composer/issues",
+    "docs": "https://github.com/pbbstore/init-composer/wiki",
+    "forum": "https://github.com/pbbstore/init-composer/discussions"
+  },
+  "config": {
+    "optimize-autoloader": true,
+    "prepend-autoloader": false,
+    "sort-packages": true
+  }
+}
